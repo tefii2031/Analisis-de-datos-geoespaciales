@@ -1,0 +1,4 @@
+*.nc
+*.DS_store
+datos/
+Proyecto/datos/
